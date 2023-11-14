@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <BtnProvider>
       <Agenda />
+      <p>Desenvolvido por Kauan Cleuton</p>
     </BtnProvider>
   )
 }
